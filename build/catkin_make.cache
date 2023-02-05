@@ -1,0 +1,2 @@
+server
+-DCATKIN_DEVEL_PREFIX=/home/Celsy/almond_ws/devel -DCMAKE_INSTALL_PREFIX=/home/Celsy/almond_ws/install -G Unix Makefiles
